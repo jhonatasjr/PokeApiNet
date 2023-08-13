@@ -10,7 +10,7 @@ O projeto PokeApiNet é uma API em ASP.NET que simula uma aplicação de captura
 - Registro de captura de um Pokémon por um Mestre Pokémon. 
 - Listagem dos Pokémons capturados juntamente com os detalhes dos Mestres Pokémon.
 - Validação para evitar a captura repetida de um mesmo Pokémon.
-- 
+ 
 ## Tecnologias Utilizadas
 - ASP.NET Core 6.0
 - Entity Framework Core 6.0
