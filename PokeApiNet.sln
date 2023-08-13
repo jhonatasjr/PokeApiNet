@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokeApiNet", "PokeApiNet\PokeApiNet.csproj", "{EA59DA17-D64A-4160-A46E-CDF56F76F0BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA59DA17-D64A-4160-A46E-CDF56F76F0BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA59DA17-D64A-4160-A46E-CDF56F76F0BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA59DA17-D64A-4160-A46E-CDF56F76F0BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA59DA17-D64A-4160-A46E-CDF56F76F0BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {598BAA0B-FC62-457E-B351-02B873FD7743}
+	EndGlobalSection
+EndGlobal
