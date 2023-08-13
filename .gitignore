@@ -1,0 +1,52 @@
+# Arquivos e pastas específicas para .NET
+bin/
+obj/
+
+# Arquivos temporários
+[Tt]humbs.db
+*.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Pacotes NuGet
+packages/
+*.nupkg
+*.pdb
+*.dll
+*.exe
+*.zip
+
+# Arquivos gerados pelo Visual Studio
+*.user
+*.suo
+*.cache
+*.vspscc
+*.vsp
+
+# Arquivos de configuração do Visual Studio
+.vscode/
+*.csproj.user
+
+# Cache do Rider
+.idea/
+*.sln.iml
+
+# Arquivos de configuração do Windows
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Cache do Rider
+.idea/
+*.sln.iml
+
+# Cache do Visual Studio Code
+.vscode/
+.vscode-test/
+
+# Arquivos gerados ao executar o projeto
+_PublishedWebsites/
+pub/
